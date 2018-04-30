@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: What I've learned during GSoC
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Here I describe what I've learned during contributing to the netfilter project during my GSoC participation in 2018 hoping that it will help others looking for hard-to find information.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/11528828?s=400&u=3aa3536e453c12d3fd469908644097e38362d89b&v=4
 
 #
 # Flags below are optional
@@ -23,10 +23,10 @@ footer-links:
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin:
+  linkedin: mate-eckl
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -84,3 +84,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+theme: jekyll-theme-hacker
