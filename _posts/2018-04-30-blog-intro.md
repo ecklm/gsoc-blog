@@ -6,7 +6,7 @@ title: Blog intro
 Dear reader,
 
 This is the first post of this blog, and I would like to introduce, what this
-blog will be about, what kind of information wou will find here, and what is the
+blog will be about, what kind of information you will find here, and what is the
 motivation behing all this.
 
 Fortunately my project proposal has been accepted to be carried out as part of
@@ -32,10 +32,11 @@ problems, I thought it would be benefficial to share what and how I learn during
 the summer to help those trying to get to know to these subjects, and probably
 to get closer to netfilter development.
 
-This blog is thus going to serve as a documentation of what problems I face, and
-what extra information was necessary to resolve them. Of course, all descriptions
-are based on my level of knowledge, although I will try to describe things on a
-way that is beneficial to those who are less avare of this area than me.
+This blog is thus going to serve both documentational and educational purposes
+about what problems I face, and what extra information is necessary to resolve
+them. Of course, all descriptions are based on my level of knowledge, although I
+will try to describe things on a way that is beneficial to those who are less
+avare of this area than I am.
 
 Hope to help with this to some people.
 
@@ -43,6 +44,6 @@ Regards,
 Máté
 
 *Ps.: This blog is also a documentation for myself not to forget about what I
-have already learned once :). This attitude can result in otherwise useless
+have already learnt once :). This attitude can result in otherwise useless
 information in some posts.*
 
